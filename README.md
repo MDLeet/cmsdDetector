@@ -1,5 +1,3 @@
-
-```markdown
 # CMS Detector & Domain Checker
 
 A multi-threaded Python tool that scans a list of domains, subdomains, or IP addresses to check if they are live, and detects:
@@ -230,19 +228,6 @@ Pull requests are welcome. To add a new CMS, language, or JS framework:
 
 ---
 
-## Author
-
-Developed for security researchers and web analysts.
-
-Report issues via GitHub Issues.
-```
-
-### `requirements.txt`
-
-```text
-requests>=2.28.0
-urllib3>=1.26.0
-```
 
 ### Project structure
 
@@ -258,4 +243,3 @@ cmsDetector/
 ├── DotNetNuke.txt
 ├── Lang/
 └── JS/
-```
